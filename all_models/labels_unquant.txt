@@ -1,0 +1,5 @@
+Paper
+Plastic
+Metal
+Food waste
+None
